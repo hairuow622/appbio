@@ -25,7 +25,7 @@ Run the following command from this directory:
 make
 ```
 
-The command requires `curl`, `gzip`, and GNU Make. Make will not download a
+The workflow requires `curl`, `gzip`, GNU Make, and `seqkit`. Make will not download a
 file again if its output already exists. 
 
 ## 3. Genome Assembly Statistics and Completeness
