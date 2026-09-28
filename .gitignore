@@ -1,2 +1,35 @@
 .DS_Store
 week04/data/
+week05/data/
+
+# Sequencing reads, reference genomes, annotations, and alignments
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.fa
+*.fa.gz
+*.fna
+*.fna.gz
+*.fasta
+*.fasta.gz
+*.fai
+*.gff
+*.gff.gz
+*.gff3
+*.gff3.gz
+*.gtf
+*.gtf.gz
+*.sam
+*.bam
+*.bai
+*.cram
+*.crai
+*.sra
+*.vcf
+*.vcf.gz
+*.bcf
+
+# Alignment indexes
+*.ht2
+*.bt2
