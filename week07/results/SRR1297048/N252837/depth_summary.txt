@@ -1,0 +1,4 @@
+bases	12591253
+bases_depth_ge10	2051801
+fraction_depth_ge10	0.162954
+mean_depth	9.38327

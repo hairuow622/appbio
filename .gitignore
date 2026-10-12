@@ -28,8 +28,15 @@ week05/data/
 *.sra
 *.vcf
 *.vcf.gz
+*.tbi
+*.csi
 *.bcf
 
 # Alignment indexes
 *.ht2
 *.bt2
+*.amb
+*.ann
+*.bwt
+*.pac
+*.sa
