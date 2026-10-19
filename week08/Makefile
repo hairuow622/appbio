@@ -142,7 +142,7 @@ $(SNPEFF_GFF): $(GFF)
 	python3 scripts/snpeff_gff.py "$<" "$@"
 
 $(SNPEFF_DB): $(SNPEFF_SEQ) $(SNPEFF_GFF) $(SNPEFF_CFG)
-	snpEff -Xmx4g build -c "$(SNPEFF_CFG)" -gff3 -v ASM294v3
+	snpEff -Xmx4g build -c "$(SNPEFF_CFG)" -gff3 -v -noCheckCds -noCheckProtein ASM294v3
 
 $(ANNOTATED): $(MERGED) $(SNPEFF_DB)
 	mkdir -p "$(dir $@)" results
