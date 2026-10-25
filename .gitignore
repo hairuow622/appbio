@@ -52,3 +52,6 @@ week08/results/SRR1297048/N252837/coverage.txt
 week08/results/SRR1297048/N252837/depth_summary.txt
 week08/results/SRR1297048/N252837/flagstat.txt
 week08/results/SRR1297048/N252837/variants.txt
+
+# Rebuilt by week09 make batch.
+week09/results/
