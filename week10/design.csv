@@ -1,0 +1,8 @@
+run,sample,group,role
+SRR27198371,Atf1_methanol_rep1,methanol,chip
+SRR27198370,Atf1_methanol_rep2,methanol,chip
+SRR27198369,Atf1_methanol_rep3,methanol,chip
+SRR27198368,Atf1_NSF_rep1,NSF,chip
+SRR27198351,Atf1_NSF_rep2,NSF,chip
+SRR27198350,Atf1_NSF_rep3,NSF,chip
+SRR27198380,Atf1_methanol_input,input,background
