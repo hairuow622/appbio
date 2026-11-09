@@ -59,3 +59,8 @@ week09/results/
 # Rebuilt by week10 make batch.
 week10/results/
 week10/tracks/
+
+# Week 11 keeps only the README and the IGV screenshots.
+week11/*
+!week11/README.md
+!week11/images/
