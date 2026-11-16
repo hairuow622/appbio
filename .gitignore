@@ -64,3 +64,9 @@ week10/tracks/
 week11/*
 !week11/README.md
 !week11/images/
+
+# Week 12 keeps only the Makefile, the README, and the R scripts.
+week12/*
+!week12/Makefile
+!week12/README.md
+!week12/src/
